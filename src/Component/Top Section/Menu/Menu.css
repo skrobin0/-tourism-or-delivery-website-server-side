@@ -1,0 +1,35 @@
+.items { 
+    padding: 5px;
+    font-size: 22px;
+    cursor: pointer;
+    list-style: none;
+    font-weight: 500;
+    /* margin-right: 30px; */
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 15px;
+    display: block;
+            
+  }
+  .items:hover {
+    color: rgb(240, 136, 136);
+  }
+
+  .MenuBar-container{
+    background-color: black;
+
+  }
+
+  @media screen and (max-width: 767px) {
+        .MenuBar-container{
+            height: 75px;
+        }
+        .items{
+          font-size: 8px;
+        }
+         .raw {
+           display: none;
+           
+         }   
+    }
+  

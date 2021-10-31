@@ -1,0 +1,28 @@
+.banner {
+    background-image: url("https://i.ibb.co/hXrSx0k/photo-1456154875099-97a3a56074d3-ixlib-rb-1-2.jpg");
+    height: 630px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+
+
+.ttf{
+  font-weight: bold;
+  }
+
+  .about-btn {
+    background-color: #f13e3e;
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+  }

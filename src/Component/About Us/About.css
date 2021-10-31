@@ -1,0 +1,7 @@
+ .text-part{
+     margin: auto !important;
+     padding: 2px;
+ }
+ .text-part h4, h2{
+    font-size: 1.5em;
+}
